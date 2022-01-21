@@ -7,7 +7,7 @@
 </p>
 <p>
   안녕하세요. 파이썬과 자바스크립트를 잘 사용하는 풀스택 웹 개발자를 지향합니다.<br/>
-  Hello. I aim to become a fullstack web developer who uses Python JavaScript well.
+  Hello. I aim to become a fullstack web developer who uses Python and JavaScript well.
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joong8812&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
