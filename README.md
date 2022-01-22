@@ -35,4 +35,4 @@ I aim to become a fullstack web developer who uses Python and JavaScript well.
 </code>](https://www.mongodb.com/)
 [<code>
 <img alt="mongodb" width="26px" src="https://img.icons8.com/ios/50/000000/flask.png">
-</code>](https://icons8.com/icons/set/flask-web)
+</code>](https://flask.palletsprojects.com/en/2.0.x/)
