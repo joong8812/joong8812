@@ -7,7 +7,7 @@
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joong8812&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)
-
+  <img src="profile-3d-contrib/profile-season-animate.svg" width="600" height="400">
   ___
 <p>
   
