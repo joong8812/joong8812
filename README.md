@@ -32,13 +32,13 @@ I aim to become a frontend developer who uses proper skills for successful busin
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
 <img alt="scss" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>
-</code>]()
+</code>](https://sass-lang.com/)
 [<code>
 <img alt="styled-components" width="26px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"/>
-</code>]()
+</code>](https://styled-components.com/)
 [<code>
 <img alt="tailwindcss" width="26px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
-</code>]()
+</code>](https://tailwindcss.com/)
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 </code>](https://reactjs.org/)
