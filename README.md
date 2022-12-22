@@ -16,32 +16,3 @@ I aim to become a frontend developer who uses proper skills for successful busin
 
 ## :desktop_computer: Solved.ac Profile
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=relax_raccoon)
-
-## 기술. Skills.
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="scss" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="styled-components" width="26px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"/>
-</code>](https://styled-components.com/)
-[<code>
-<img alt="tailwindcss" width="26px" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
-</code>](https://tailwindcss.com/)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-</code>](https://reactjs.org/)
-[<code>
-<img alt="nextjs" width="26px" src="https://img.icons8.com/fluency-systems-filled/48/000000/nextjs.png"/>
-</code>](https://nextjs.org/)
